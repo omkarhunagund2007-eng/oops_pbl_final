@@ -1,0 +1,6 @@
+{
+  "name": "GM University Smart Campus System",
+  "description": "Complete Smart Campus Integrated Management System for GM University (UE25CS2303 OOPS PBL) with Spring Boot 3, Java 21, JDBC, MySQL 8, cinematic campus arrival & interactive lamp login, role-based Admin/Student portals, and concurrent resource booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
